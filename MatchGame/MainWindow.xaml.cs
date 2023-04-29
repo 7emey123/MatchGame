@@ -37,7 +37,7 @@ namespace MatchGame
                 "🍬", "🍬",
                 "👌", "👌",
                 "🍿", "🍿",
-                "🐧", "🐧",
+                "👩", "👩🏻",
             };
 
             Random random= new Random();
